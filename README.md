@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/suraj12m/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj12m/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj12m/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/suraj12m/Leetcode/tree/master/0136-single-number) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -66,4 +67,8 @@
 | [0118-pascals-triangle](https://github.com/suraj12m/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj12m/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj12m/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/suraj12m/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
