@@ -20,6 +20,7 @@
 | [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/suraj12m/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/suraj12m/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/suraj12m/Leetcode/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -56,6 +57,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj12m/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/suraj12m/Leetcode/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
