@@ -1,9 +1,7 @@
-class Solution:
-    def distributeCandies(self, candyType: List[int]) -> int:
-        x=len(candyType)//2
-        c=len(set(candyType))
-        if(c<x):
-            return c
-        return x
-
-        
+class Solution(object):
+    def distributeCandies(self, candyType):
+        """
+        :type candyType: List[int]
+        :rtype: int
+        """
+        return min(len(candyType)//2,len(set(candyType)))
