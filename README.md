@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/suraj12m/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/suraj12m/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj12m/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/suraj12m/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/suraj12m/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj12m/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Math
 |  |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suraj12m/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
