@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/suraj12m/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suraj12m/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
