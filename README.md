@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/suraj12m/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suraj12m/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/suraj12m/Leetcode/tree/master/0118-pascals-triangle) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Hash Table
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/suraj12m/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
