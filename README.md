@@ -36,6 +36,7 @@
 | [0009-palindrome-number](https://github.com/suraj12m/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suraj12m/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/suraj12m/Leetcode/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/suraj12m/Leetcode/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suraj12m/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Dynamic Programming
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suraj12m/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
