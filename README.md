@@ -27,6 +27,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suraj12m/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/suraj12m/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj12m/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1748-sum-of-unique-elements](https://github.com/suraj12m/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/suraj12m/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/suraj12m/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suraj12m/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -41,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/suraj12m/Leetcode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
+| [1748-sum-of-unique-elements](https://github.com/suraj12m/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Math
 |  |
@@ -114,6 +116,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suraj12m/Leetcode/tree/master/0169-majority-element) |
+| [1748-sum-of-unique-elements](https://github.com/suraj12m/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
 | ------- |
