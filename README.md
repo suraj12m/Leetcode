@@ -24,6 +24,7 @@
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
 | [0867-transpose-matrix](https://github.com/suraj12m/Leetcode/tree/master/0867-transpose-matrix) |
+| [1089-duplicate-zeros](https://github.com/suraj12m/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suraj12m/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suraj12m/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/suraj12m/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -74,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/suraj12m/Leetcode/tree/master/0283-move-zeroes) |
+| [1089-duplicate-zeros](https://github.com/suraj12m/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
 |  |
 | ------- |
