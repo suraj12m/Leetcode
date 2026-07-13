@@ -21,6 +21,7 @@
 | [0228-summary-ranges](https://github.com/suraj12m/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/suraj12m/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suraj12m/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/suraj12m/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/suraj12m/Leetcode/tree/master/0724-find-pivot-index) |
@@ -134,6 +135,11 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/suraj12m/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/suraj12m/Leetcode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/suraj12m/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/suraj12m/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
