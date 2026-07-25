@@ -24,6 +24,7 @@
 | [0303-range-sum-query-immutable](https://github.com/suraj12m/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0724-find-pivot-index](https://github.com/suraj12m/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/suraj12m/Leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/suraj12m/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -46,6 +47,7 @@
 | [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/suraj12m/Leetcode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1748-sum-of-unique-elements](https://github.com/suraj12m/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/suraj12m/Leetcode/tree/master/2395-find-subarrays-with-equal-sum) |
 ## Math
@@ -64,6 +66,7 @@
 | [0014-longest-common-prefix](https://github.com/suraj12m/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/suraj12m/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suraj12m/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
