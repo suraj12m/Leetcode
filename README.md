@@ -145,4 +145,12 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/suraj12m/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
