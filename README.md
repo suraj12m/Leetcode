@@ -80,6 +80,7 @@
 | [0027-remove-element](https://github.com/suraj12m/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
+| [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/suraj12m/Leetcode/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/suraj12m/Leetcode/tree/master/1089-duplicate-zeros) |
 ## Binary Search
@@ -153,9 +154,15 @@
 | [0021-merge-two-sorted-lists](https://github.com/suraj12m/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suraj12m/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/suraj12m/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
