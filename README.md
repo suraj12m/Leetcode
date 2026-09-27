@@ -58,6 +58,7 @@
 | [0066-plus-one](https://github.com/suraj12m/Leetcode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/suraj12m/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/suraj12m/Leetcode/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suraj12m/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/suraj12m/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -156,6 +157,7 @@
 | [0206-reverse-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suraj12m/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
