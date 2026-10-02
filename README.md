@@ -90,6 +90,7 @@
 | [0283-move-zeroes](https://github.com/suraj12m/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/suraj12m/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/suraj12m/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0328-odd-even-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/suraj12m/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/suraj12m/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
