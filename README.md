@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/suraj12m/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/suraj12m/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suraj12m/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/suraj12m/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/suraj12m/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj12m/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -82,6 +83,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/suraj12m/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/suraj12m/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/suraj12m/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suraj12m/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -99,6 +101,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/suraj12m/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/suraj12m/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/suraj12m/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/suraj12m/Leetcode/tree/master/0217-contains-duplicate) |
@@ -190,4 +193,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj12m/Leetcode/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suraj12m/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/suraj12m/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
