@@ -49,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/suraj12m/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/suraj12m/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/suraj12m/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/suraj12m/Leetcode/tree/master/0383-ransom-note) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1748-sum-of-unique-elements](https://github.com/suraj12m/Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -72,6 +73,7 @@
 | [0014-longest-common-prefix](https://github.com/suraj12m/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/suraj12m/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/suraj12m/Leetcode/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suraj12m/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suraj12m/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/suraj12m/Leetcode/tree/master/0383-ransom-note) |
 | [1748-sum-of-unique-elements](https://github.com/suraj12m/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sliding Window
 |  |
