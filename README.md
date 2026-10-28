@@ -71,6 +71,7 @@
 | [0008-string-to-integer-atoi](https://github.com/suraj12m/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/suraj12m/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suraj12m/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/suraj12m/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/suraj12m/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/suraj12m/Leetcode/tree/master/0383-ransom-note) |
@@ -192,6 +193,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suraj12m/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -205,4 +207,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/suraj12m/Leetcode/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suraj12m/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
