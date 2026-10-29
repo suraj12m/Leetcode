@@ -26,6 +26,7 @@
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/suraj12m/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/suraj12m/Leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/suraj12m/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/suraj12m/Leetcode/tree/master/0867-transpose-matrix) |
 | [1089-duplicate-zeros](https://github.com/suraj12m/Leetcode/tree/master/1089-duplicate-zeros) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/suraj12m/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/suraj12m/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0682-baseball-game](https://github.com/suraj12m/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/suraj12m/Leetcode/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/suraj12m/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/suraj12m/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -195,6 +197,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/suraj12m/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/suraj12m/Leetcode/tree/master/0682-baseball-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
