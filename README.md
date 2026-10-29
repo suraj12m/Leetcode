@@ -77,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/suraj12m/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/suraj12m/Leetcode/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/suraj12m/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj12m/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/suraj12m/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Trie
 |  |
@@ -198,6 +199,7 @@
 | [0020-valid-parentheses](https://github.com/suraj12m/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/suraj12m/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/suraj12m/Leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/suraj12m/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
